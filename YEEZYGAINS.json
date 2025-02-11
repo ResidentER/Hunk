@@ -1,10 +1,13 @@
 {
   "name": "YEEZYGAINS",
   "symbol": "YEEZYX",
+  "uri": "https://github.com/ResidentER/Hunk/blob/main/YEEZYGAINS.json",
   "description": "The ultimate meme token for sneakerheads.",
   "image": "https://i.imgur.com/6JMUYOv.png",
   "external_url": "",
-  "attributes": [],
+  "decimals": 9,
+  "mint": "21GSyVAvuWpWZFtq8tsB4Rtuf4qZDjjzwncsBXbZjGaN",
+  "supply": 10000000000,
   "properties": {
     "category": "image",
     "files": [
@@ -15,3 +18,4 @@
     ]
   }
 }
+
