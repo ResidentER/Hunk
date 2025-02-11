@@ -1,0 +1,17 @@
+{
+  "name": "YEEZYGAINS",
+  "symbol": "YEEZYX",
+  "description": "The ultimate meme token for sneakerheads.",
+  "image": "https://i.imgur.com/6JMUYOv.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://i.imgur.com/6JMUYOv.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
